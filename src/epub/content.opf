@@ -36,14 +36,15 @@
 		<dc:subject id="subject-2">Europe, Eastern--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008114929</meta>
-		<meta property="schema:genre">TAG</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:abstract">When three particular men—known as “vultures”—arrive, it means that an international crisis is coming, and when they come to Warsaw, princes and revolutionaries alike wonder whether the vultures have come to watch for a long-awaited uprising against the Russian Empire or to ignite it.</meta>
 		<dc:description>
-			DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;The Vultures&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman&lt;/a&gt; plotted a taut, fast-moving story of international intrigue which seems as though it could’ve been written in our era rather than in the Victorian. Reginald Cartoner, a British agent, and his counterpart in the French service, Paul Deulin, have worked with and against one another for many years, building a mutual professional respect and a wary friendship. They and an American, Joseph Mangles, are known by political insiders as “vultures”—men whose sudden arrivals in a seemingly peaceful place presage the end of that calm and the start of a crisis which will command the world’s attention. All three have just arrived in Warsaw, the principal city of what was formerly a free Polish state but which is now brutally controlled by the Russian Empire of Tsar Aleksandr II.&lt;/p&gt;
+			&lt;p&gt;Prince Bukaty, his son Prince Martin, and daughter Princess Wanda, whose power and wealth were stripped by the Russians decades earlier, maintain their connections throughout Europe and secretly lay the groundwork for revolt; in this they are joined by the radical Kosmaroff, whose origins are as mysterious as his methods are ruthless. As the Polish people await the trigger for their revolution, they are uncertain whether the three vultures have been sent to aid, oppose, or simply observe them, or even whether the three are cooperating or at cross-purposes with one another. As personal connections amongst all of the players are strained by conflicting duties and national loyalties, their situation in Poland becomes more perilous by the moment.&lt;/p&gt;
 		</dc:description>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3805</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/009382145</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Vultures" rel="schema:sameAs"/>
@@ -52,30 +53,25 @@
 		<link href="https://github.com/standardebooks/henry-seton-merriman_the-vultures" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Henry Seton Merriman</dc:creator>
 		<meta property="file-as" refines="#author">Merriman, Henry Seton</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<link href="https://en.wikipedia.org/wiki/Henry_Seton_Merriman" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n90683469.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Eva Gonzalès</dc:contributor>
+		<meta property="file-as" refines="#artist">Gonzalès, Eva</meta>
+		<link href="https://en.wikipedia.org/wiki/Eva_Gonzalès" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n91027642.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Dagny</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Dagny</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">John Bickers</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Bickers, John</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Colin Samuels</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Samuels, Colin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
